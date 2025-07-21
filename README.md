@@ -18,8 +18,8 @@ I am a 3rd-year college student specializing in Artificial Intelligence and Mach
 
 I'm always open to discussing AI/ML projects, potential collaborations, or career opportunities. Feel free to connect with me on:
 
-* **LinkedIn**: [Your LinkedIn Profile URL]
-* **Email**: [Your Email Address]
+* **LinkedIn**: https://www.linkedin.com/in/garvit-audichya-305132337
+* **Email**: audichyagarvit010@gmail.com
 ---
 
 ## How to View My Resume
